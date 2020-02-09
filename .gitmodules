@@ -1,0 +1,15 @@
+[submodule "ICHackApp"]
+	path = ICHackApp
+	url = git@github.com:seaney11/ICHackApp.git
+[submodule "ichackfrontend"]
+	path = ichackfrontend
+	url = git@github.com:seaney11/ichackfrontend.git
+[submodule "ichackbackend"]
+	path = ichackbackend
+	url = git@github.com:seaney11/ichackbackend.git
+[submodule "front_hack"]
+	path = front_hack
+	url = git@github.com:Gouber/front_hack.git
+[submodule "gouar"]
+	path = gouar
+	url = git@github.com:Gouber/gouar.git
